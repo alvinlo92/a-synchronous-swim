@@ -13,11 +13,11 @@
     "keypress": "^0.2.1",
     "nodemon": "^2.0.2",
     "parse-multipart": "^1.0.4",
-    "server": "^1.0.25",
-    "underscore": "^1.9.2"
+    "server": "^1.0.27",
+    "underscore": "^1.10.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "jest": "^25.1.0"
+    "jest": "^25.2.7"
   }
 }
