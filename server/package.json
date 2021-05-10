@@ -14,7 +14,7 @@
     "nodemon": "^2.0.2",
     "parse-multipart": "^1.0.4",
     "server": "^1.0.27",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
